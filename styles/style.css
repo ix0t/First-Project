@@ -315,7 +315,7 @@
   background-color: #1f1f1f
 }
 
-.columns {
+.footer__columns {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -324,7 +324,7 @@
   margin:0 auto;
 }
 
-.column_content_copyright {
+.footer__column_content_copyright {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -345,7 +345,7 @@
   font-size: 18px;
 }
 
-.column_content_info {
+.footer__column_content_info {
   display: flex;
   flex-direction: column;
 }
@@ -371,7 +371,7 @@
   font-weight: normal;
 }
 
-.column_content_social {
+.footer__column_content_social {
   display: flex;
   flex-direction: column;
 }
