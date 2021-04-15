@@ -1,0 +1,8 @@
+.resources {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 100px 0 217px;
+}

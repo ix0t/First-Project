@@ -57,6 +57,9 @@
 @import url(../Blocks/feynman/__image/feynman__image.css);
 @import url(../Blocks/kaufman/kaufman.css);
 @import url(../Blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../Blocks/resources/resources.css);
+@import url(../Blocks/resources/__logo/resources__logo.css);
+@import url(../Blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../Blocks/footer/footer.css);
 @import url(../Blocks/footer/__columns/footer__columns.css);
 @import url(../Blocks/footer/__column/footer__column.css);
